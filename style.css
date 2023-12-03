@@ -28,7 +28,7 @@ h3 {
 }
 
 .pete {
-  text-align: left !important;
+  text-align: center !important;
 }
 
 /* Header */
@@ -41,7 +41,7 @@ header {
 
 
 /* Containers */
-div {
+article {
   background-color: #eae2b7;
   margin: auto;
   width: 600px;
